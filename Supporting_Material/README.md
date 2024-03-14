@@ -1,4 +1,4 @@
-# Supporting Material for Fernando Aranda's Astroscale Spacecraft Systems Engineer Job Application Portfolio
+# Supporting Material for Fernando Aranda's Orbit Fab Systems Engineer Job Application Portfolio
 
 ## Introduction
 
