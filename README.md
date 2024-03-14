@@ -1,6 +1,6 @@
-# Fernando Aranda's Astroscale Spacecraft Systems Engineer Job Application Portfolio
+# Fernando Aranda's Orbit Fab Systems Engineer Job Application Portfolio
 
-Welcome to my GitHub repository, where I showcase my engineering portfolio and supporting materials. This repository is created for my application at Astroscale Toulouse to gain insights into my skills, projects, and engineering approach.
+Welcome to my GitHub repository, where I showcase my engineering portfolio and supporting materials. This repository is created for my application at Orbit Fab to gain insights into my skills, projects, and engineering approach.
 
 ## Portfolio Overview
 
