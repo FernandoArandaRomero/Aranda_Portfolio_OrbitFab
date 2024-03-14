@@ -1,8 +1,8 @@
-# Supporting Material for Fernando Aranda's Orbit Fab Systems Engineer Job Application Portfolio
+# Supporting Material for Fernando Aranda's Space Engineering Portfolio
 
 ## Introduction
 
-Welcome to the supporting repository for my Astroscale spacecraft systems engineer job application portfolio. This repository intends to provide the projects' reports mentioned in my portfolio document. It extends the main portfolio, offering a more comprehensive view of my work and achievements.
+Welcome to the supporting repository for my engineering portfolio. This repository intends to provide the projects' reports mentioned in my portfolio document. It extends the main portfolio, offering a more comprehensive view of my work and achievements.
 
 ## Repository Overview
 
